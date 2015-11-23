@@ -15,7 +15,7 @@ Följande inloggningsuppgifter finns till applikationen:
 * user@user.se:pass1user!
 * user2@user.se:!pass@user!
 * admin@user.se:!admin@40  (detta är inloggning för admin)
-
+<br /><br />
 ### Kör igång applikationen
 Klona ner följande repo: ```https://github.com/thajo/messy_labbage.git```
 
@@ -33,7 +33,7 @@ Använd terminalen och bege dig in i repots mapp.
 
 Har du problem med vagrant så använd de handledningspass som finns.
 
-### Rapporten
+## Rapporten
 Examinationen av denna uppgift går till genom att skriva en tydlig och väl uppbyggd rapport. Rapporten ska vara skriven i md-format och tydligt publiceras på det repo du har delat med användaren "1dv449" på GitHub så att vi enkelt kan hitta den.
 
 Följande krav finns på innehållet rapporten
